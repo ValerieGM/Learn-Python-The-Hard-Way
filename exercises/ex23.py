@@ -21,3 +21,6 @@ def print_line(line, encoding, errors):
 languages = open("../resources/languages.txt", encoding="utf-8")
 
 main(languages, encoding, error)
+
+## NOTICE!!!!!!!
+## Study Overtime!!
